@@ -1,0 +1,72 @@
+h3 {
+  text-align: center;
+  color: #967e76;
+  font-style: italic;
+}
+
+h1 {
+  text-align: center;
+  color: #967e76;
+  font-style: italic;
+}
+
+h2 {
+  text-align: center;
+  color: #967e76;
+  font-style: italic;
+}
+
+.TextExp {
+  color: #967e76;
+  background-color: #c4d7b2;
+  inline-size: 30%;
+  padding: 10px;
+  border-inline-start-style: solid;
+  border-inline-start-width: 8px;
+  border-color: #967e76;
+}
+.TextHob {
+  color: #967e76;
+  background-color: #c4d7b2;
+  inline-size: 30%;
+  padding: 10px;
+  border-inline-start-style: solid;
+  border-inline-start-width: 8px;
+  border-color: #967e76;
+}
+.TextCon {
+  margin-left: auto;
+  margin-right: auto;
+  color: #967e76;
+  background-color: #ffb4b4;
+  inline-size: 30%;
+  padding: 10px;
+  border-inline-start-style: solid;
+  border-inline-start-width: 8px;
+  border-color: #967e76;
+}
+
+.skill-header {
+  text-align: left;
+}
+
+.skill-container {
+  border: solid #f8ead8;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 16px;
+  margin-bottom: 8px;
+}
+.index {
+  padding: 5px;
+  text-align: center;
+}
+.pages {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pages :hover {
+  background-color: #fdf7c3;
+}
